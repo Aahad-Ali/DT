@@ -1,0 +1,8 @@
+{
+    "baseUrl": "https://digitalappbackend.technoholicasprojects.com",
+    "baseUrl2": "http://localhost:9000",
+    "baseUrl1": "https://14fs4ncx-9000.uks1.devtunnels.ms",
+    "baseUrl3": "https://9gqbf2dg-9000.inc1.devtunnels.ms",
+    "socketUrl": "https://digitalappbackend.technoholicasprojects.com",
+    "stripe_publish_key": "pk_test_51Oh0tgF6Gkk6c638flTLOJlT79V1F0aPz3d89neY9x54VqcrOPj4OOqX98dFIlvAabt2wkxFsFkrouAYWVoa4XsW00A9skuqLe"
+}
